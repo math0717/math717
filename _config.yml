@@ -3,6 +3,9 @@ description: My awesome site built with Jekyll and GitHub Pages
 plugins:
   - jekyll-sitemap
 
+exclude:
+  - sitemap.xml
+
 #Site Verification Settings
 webmaster_verifications:
   google: Z4FQTmI1uxWMZWyKsF6WhSEjT2Bc3iAm3nVtv8bSMjs
