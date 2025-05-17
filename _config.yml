@@ -3,7 +3,8 @@ description: My awesome site built with Jekyll and GitHub Pages
 plugins:
   - jekyll-sitemap
 
-exclude:
+#exclude:
+include:
   - sitemap.xml
 
 #Site Verification Settings
